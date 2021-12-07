@@ -2,7 +2,7 @@
 
 ## Introduction
 The Amazon Food Reviews dataset consists of 568,454 food reviews. This dataset consists of a single CSV file, Reviews.csv
-Both Naive Bayes and Logistic Regression - with L1 regularizor models are used and their accuracies are compared.
+Both Naive Bayes and Logistic Regression - with L1 regularizor models are used and model with higher accuracy is preffered.
 
 <b>Data Set</b><br />
 <a href="https://www.kaggle.com/snap/amazon-fine-food-reviews">Click here</a> to get the dataset.<br />
@@ -58,3 +58,8 @@ e. Frequent reviewers are more discerning in their ratings, write longer reviews
 </pre>
 
 ## Output
+   The accuracy of Naive Bayes Model is shown below
+   ![][./Naive_Bayes_Accuracy.png]
+   The accuracy of Logistic Regression - with L1 regularizor is shown below
+   ![][./Logistic Regression - with L1 regularizor.png]
+   
