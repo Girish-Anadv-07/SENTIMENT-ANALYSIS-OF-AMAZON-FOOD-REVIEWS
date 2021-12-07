@@ -55,7 +55,5 @@ e. Frequent reviewers are more discerning in their ratings, write longer reviews
     STEP-3: Vectorizing out Data Set
     STEP-4: Building and evaluating the model
             a. Naive Bayes
-            b. Logistic Regression - with L1 and L2 regularizors
-            c. Linear SVM
-            d. RBF Kernel SVM 
+            b. Logistic Regression - with L1 regularizors
 </pre>
