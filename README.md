@@ -41,8 +41,6 @@ c. Longer reviews are more helpful.
 d. Despite being more common and shorter, positive reviews are found more helpful.
 e. Frequent reviewers are more discerning in their ratings, write longer reviews, and write more helpful reviews
 </pre>
-<b>Note:</b> This notebook is highly inspired from the <a href="http://blog.nycdatascience.com/student-works/amazon-fine-foods-visualization/">Exploratory visualization of Amazon fine food reviews by Rob Castellano.</a>
-
 ## Model Building
 <pre>
     STEP-1: Copy the data in Pandas DataFrame and drop unwanted columns.
