@@ -62,7 +62,8 @@ e. Frequent reviewers are more discerning in their ratings, write longer reviews
     The accuracy of Naive Bayes Model is shown below
     
   ![](./Naive_Bayes_Accuracy.png)
-   
+  ![](./Logistic_Regression_with_L1_regularizor.png)
+  
     The accuracy of Logistic Regression - with L1 regularizor is shown below
     
   ![](./Logistic_Regression_with_L1_regularizor.png)
