@@ -65,5 +65,5 @@ e. Frequent reviewers are more discerning in their ratings, write longer reviews
    
     The accuracy of Logistic Regression - with L1 regularizor is shown below
     
-   ![](./Logistic Regression - with L1 regularizor.png)
+   ![](./Logistic Regression.png)
    
